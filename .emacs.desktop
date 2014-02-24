@@ -1,0 +1,29 @@
+;; -*- mode: emacs-lisp; coding: emacs-mule; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Sat Jan 25 22:45:40 2014
+;; Desktop file format version 206
+;; Emacs version 24.3.1
+
+;; Global section:
+(setq desktop-missing-file-warning nil)
+(setq tags-file-name nil)
+(setq tags-table-list nil)
+(setq search-ring '("titlebal" "markdown" "auto" "gdb" "session" "yasnippet"))
+(setq regexp-search-ring nil)
+(setq register-alist nil)
+(setq file-name-history '("~/.config/awesome/" "/home/kevin/.config/awesome/rc.lua" "/boot/grub/grub.cfg" "/home/kevin/program/opencv/encrypt/encrypt.pro" "/home/kevin/program/opencv/encrypt/encrypt.cpp" "/home/kevin/program/opencv/encrypt/CMakeLists.txt" "/home/kevin/.emacs.d/vendor/auto-complete-yasnippet.el" "~/.emacs.d/savefile/bookmarks" "/home/kevin/program/opencv/encode.cpp" "/home/kevin/program/itk/itk_zw/CMakeLists.txt" "/home/kevin/program/itk/encrypt/encrypt.cpp" "/home/kevin/.zshrc" "/home/kevin/.zhrc" "/home/kevin/.emacs.d/personal/mycustom.el" "/home/kevin/.emacs.d/vendor/my-functions.el" "~/program/itk/encrypt/server" "~/" "/home/kevin/blog/themes/light/layout/_partial/header.ejs" "/home/kevin/blog/_config.yml" "/home/kevin/blog/themes/light/_config.yml" "/home/kevin/blog/themes/chenall/_config.yml" "/home/kevin/blog/themes/ios7/_config.yml" "/home/kevin/blog/themes/pacman/_config.yml" "/home/kevin/blog/source/_posts/python-self.md" "/home/kevin/blog/source/_posts/python-name.md" "/home/kevin/blog/source/_posts/python-html1.md" "/home/kevin/blog/source/_posts/python-pyglet.md" "/home/kevin/blog/source/_posts/first-day-practice.md" "/home/kevin/blog/source/_posts/kindle-break.md" "/home/kevin/blog/source/_posts/cmake.md"))
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 206
+  "/home/kevin/.config/awesome/rc.lua"
+  "rc.lua"
+  'lua-mode
+  '(prelude-mode global-auto-revert-mode smartparens-mode volatile-highlights-mode flx-ido-mode projectile-mode undo-tree-mode yas-minor-mode)
+  26490
+  '(446 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix)))
+
